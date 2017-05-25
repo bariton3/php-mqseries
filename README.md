@@ -1,5 +1,5 @@
 # php-mqseries
-A library to interface with a WebSphere MQ Queue Manager using the PHP mqseries pecl extension
+A library to interface with a WebSphere MQ Queue Manager using the PHP mqseries pecl extension. This is a fork of https://github.com/amabnl/php-mqseries.
 
 # Purpose
 
